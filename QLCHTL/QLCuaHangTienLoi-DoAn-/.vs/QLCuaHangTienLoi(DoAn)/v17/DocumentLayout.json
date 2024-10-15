@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|e:\\qlchtl\\qlcuahangtienloi-doan-\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|e:\\qlchtl\\qlcuahangtienloi-doan-\\model\\chitietthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:model\\chitietthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|e:\\qlchtl\\qlcuahangtienloi-doan-\\model\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:model\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|e:\\qlchtl\\qlcuahangtienloi-doan-\\model\\chitietdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:model\\chitietdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|e:\\qlchtl\\qlcuahangtienloi-doan-\\model\\chitietcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ACB6F8-96F4-4B75-B589-779489F24A10}|QuanLyCuaHang.csproj|solutionrelative:model\\chitietcalamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:58.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CHITIETTHANHTOAN.cs",
+              "DocumentMoniker": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETTHANHTOAN.cs",
+              "RelativeDocumentMoniker": "Model\\CHITIETTHANHTOAN.cs",
+              "ToolTip": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETTHANHTOAN.cs",
+              "RelativeToolTip": "Model\\CHITIETTHANHTOAN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CHITIETHOADON.cs",
+              "DocumentMoniker": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETHOADON.cs",
+              "RelativeDocumentMoniker": "Model\\CHITIETHOADON.cs",
+              "ToolTip": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETHOADON.cs",
+              "RelativeToolTip": "Model\\CHITIETHOADON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CHITIETDONDATHANG.cs",
+              "DocumentMoniker": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETDONDATHANG.cs",
+              "RelativeDocumentMoniker": "Model\\CHITIETDONDATHANG.cs",
+              "ToolTip": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETDONDATHANG.cs",
+              "RelativeToolTip": "Model\\CHITIETDONDATHANG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CHITIETCALAMVIEC.cs",
+              "DocumentMoniker": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETCALAMVIEC.cs",
+              "RelativeDocumentMoniker": "Model\\CHITIETCALAMVIEC.cs",
+              "ToolTip": "E:\\QLCHTL\\QLCuaHangTienLoi-DoAn-\\Model\\CHITIETCALAMVIEC.cs",
+              "RelativeToolTip": "Model\\CHITIETCALAMVIEC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:42:48.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

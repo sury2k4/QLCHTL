@@ -1,0 +1,16 @@
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\QuanLyCuaHang.exe.config
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\QuanLyCuaHang.exe
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\QuanLyCuaHang.pdb
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\EntityFramework.dll
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\EntityFramework.xml
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.HomePage.resources
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.Login.resources
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.exe
+E:\QLCHTL\QLCuaHangTienLoi-DoAn-\obj\Debug\QuanLyCuaHang.pdb
